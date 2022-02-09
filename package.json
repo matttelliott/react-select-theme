@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "name": "@matttelliott/react-select-theme",
+  "version": "1.0.0",
+  "description": "react component to select bootstrap theme",
+  "main": "select-theme.tsx",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matttelliott/react-select-theme.git"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "theme"
+  ],
+  "author": "Matt T Elliott <npm@matttelliott.com> (https://matttelliott.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matttelliott/react-select-theme/issues"
+  },
+  "homepage": "https://github.com/matttelliott/react-select-theme#readme"
+}
